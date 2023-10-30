@@ -64,5 +64,5 @@ let name1 = 'john';
 let name2 = 'John';
 console.log(name1!==name2);
 
-let risultato = name2.toLowerCase();
-console.log(name1==risultato);
+let name3 = name2.toLowerCase();
+console.log(name1==name3);
